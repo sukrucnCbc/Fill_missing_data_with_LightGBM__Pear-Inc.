@@ -1,5 +1,3 @@
-# pi_intern_question
-
 This repository only includes files for programming assignment task inside intern questionnaire.
 Required files for candidates to download:
 - Dataset file (csv): Required data to solve problem. Required column explanation is inside question file.
